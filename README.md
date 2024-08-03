@@ -18,13 +18,13 @@ for user signup : http://localhost:8080/user/signup
 for user login : http://localhost:8080/user/login
 
 for task crud operation :
-   create : http://localhost:8080/task/create  - create task by existing user
-   read : http://localhost:8080/task/tasks    - get all tasks
-   read : http://localhost:8080/task/tasks/search   - get task by task Id
-   read : http://localhost:8080/task/filter  - get task on the basis on various filters
-   read : http://localhost:8080/tasks/{userId}  - get all task of the given user
-   update : http://localhost:8080/tasks/update/{taskId}  - update task by task id
-   delete : http://localhost:8080/taskstask/{taskId}/{userId}  - delete task by taskId for the given user.
+create : http://localhost:8080/task/create  - create task by existing user
+read : http://localhost:8080/task/tasks    - get all tasks
+read : http://localhost:8080/task/tasks/search   - get task by task Id
+read : http://localhost:8080/task/filter  - get task on the basis on various filters
+read : http://localhost:8080/tasks/{userId}  - get all task of the given user
+update : http://localhost:8080/tasks/update/{taskId}  - update task by task id
+delete : http://localhost:8080/taskstask/{taskId}/{userId}  - delete task by taskId for the given user.
 
                           
 
