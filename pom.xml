@@ -87,6 +87,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>TaskManagementSystem</finalName>
 	</build>
 
 </project>
