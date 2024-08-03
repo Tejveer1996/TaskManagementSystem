@@ -10,3 +10,8 @@ The system supports multiple user roles, which are crucial for managing access a
 The roles are managed through a dedicated Role class and associated RoleController. 
 
 Signup generates a hashed token that is stored in Bcryption. That token is used for further Authentication.
+
+
+Dockerfile is created for containerization.
+dock hub repository link where image of the taskmanager is present
+https://hub.docker.com/r/teveer/taskmanager/tags
